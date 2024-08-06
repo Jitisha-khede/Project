@@ -1,0 +1,7 @@
+.hover-glow:hover {
+  text-shadow:
+    0 0 5px rgba(102, 252, 241, 0.9),  /* Inner glow */
+    0 0 10px rgba(102, 252, 241, 0.9), /* Middle glow */
+    0 0 15px rgba(102, 252, 241, 0.9), /* Outer glow */
+    0 0 20px rgba(102, 252, 241, 0.9); /* Further outer glow */
+}

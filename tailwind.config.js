@@ -8,7 +8,9 @@ module.exports = {
   theme: {
     extend: {
       colors:{
-        customBackground: '#0B0C10'
+        customBackground: '#0B0C10',
+        customTextColor: '#66FCF1',
+        customSearchBar: '#1F2833'
       },
     },
   },
